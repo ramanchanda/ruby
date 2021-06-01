@@ -39,3 +39,5 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'derailed_benchmarks', group: :development
+
